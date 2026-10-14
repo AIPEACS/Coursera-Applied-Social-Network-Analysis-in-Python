@@ -1,4 +1,4 @@
-# Coursera Applied Social Network Analysis in Python
+# Applied Social Network Analysis in Python
 
 Each numbered directory contains the untouched course notebook at `template/assignmentN.ipynb`, the completed notebook at `assignmentN.ipynb`, and the course assets needed to run it.
 
